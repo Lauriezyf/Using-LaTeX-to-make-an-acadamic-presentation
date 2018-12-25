@@ -1,0 +1,16 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Project background and meaning}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Introduction of Stereo Matching}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Application of Stereo Matching}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Classification of Stereo Matching}{5}{0}{1}
+\beamer@sectionintoc {2}{Research work}{6}{0}{2}
+\beamer@sectionintoc {3}{Fundamental principles}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Stereo matching principle}{7}{0}{3}
+\beamer@subsectionintoc {3}{2}{Principle of SAD, SSD and NCC}{8}{0}{3}
+\beamer@subsectionintoc {3}{3}{Principle of ASW}{9}{0}{3}
+\beamer@sectionintoc {4}{Research achievement}{10}{0}{4}
+\beamer@subsectionintoc {4}{1}{Experimental analysis of local matching algorithms}{10}{0}{4}
+\beamer@subsectionintoc {4}{2}{Design of optimization}{14}{0}{4}
+\beamer@subsectionintoc {4}{3}{Experimental analysis of optimized algorithm}{15}{0}{4}
+\beamer@subsectionintoc {4}{4}{Conclusion}{19}{0}{4}
